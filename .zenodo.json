@@ -1,0 +1,34 @@
+{
+  "title": "Statistical analysis code for hospitalization and functional trajectories in CHARLS and HRS",
+  "upload_type": "software",
+  "description": "Reproducible Python code for harmonized event-study analyses of activities of daily living and instrumental activities of daily living around first observed hospitalization in CHARLS and HRS. Participant-level data, manuscripts, tables, and generated figures are not included.",
+  "creators": [
+    {
+      "name": "Wu, Xiaoxin",
+      "affiliation": "Longyan First Affiliated Hospital of Fujian Medical University"
+    },
+    {
+      "name": "Liang, Huadong",
+      "affiliation": "Longyan First Affiliated Hospital of Fujian Medical University"
+    },
+    {
+      "name": "Wei, Huijun",
+      "affiliation": "The Second Hospital of Longyan"
+    },
+    {
+      "name": "Liu, Lirong",
+      "affiliation": "The Second Affiliated Hospital of Xiamen Medical College"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "CHARLS",
+    "HRS",
+    "hospitalization",
+    "activities of daily living",
+    "instrumental activities of daily living",
+    "event study",
+    "aging"
+  ]
+}

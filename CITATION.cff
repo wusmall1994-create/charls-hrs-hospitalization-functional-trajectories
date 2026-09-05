@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release."
+title: "Statistical analysis code for hospitalization and functional trajectories in CHARLS and HRS"
+type: software
+version: 1.0.0
+date-released: 2026-09-05
+authors:
+  - family-names: Wu
+    given-names: Xiaoxin
+    affiliation: Longyan First Affiliated Hospital of Fujian Medical University
+  - family-names: Liang
+    given-names: Huadong
+    affiliation: Longyan First Affiliated Hospital of Fujian Medical University
+  - family-names: Wei
+    given-names: Huijun
+    affiliation: The Second Hospital of Longyan
+  - family-names: Liu
+    given-names: Lirong
+    affiliation: The Second Affiliated Hospital of Xiamen Medical College
+repository-code: "https://github.com/wusmall1994-create/charls-hrs-hospitalization-functional-trajectories"
+license: MIT
+keywords:
+  - CHARLS
+  - HRS
+  - hospitalization
+  - activities of daily living
+  - instrumental activities of daily living
+  - event study
