@@ -1,5 +1,7 @@
 # CHARLS-HRS hospitalization and functional trajectories
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22351432.svg)](https://doi.org/10.5281/zenodo.22351432)
+
 This repository contains the statistical analysis code for a coordinated study of functional trajectories around first observed hospitalization in the China Health and Retirement Longitudinal Study (CHARLS) and the US Health and Retirement Study (HRS). It contains no participant-level data, manuscript files, tables, figures, or personal contact information.
 
 ## Analysis scope
@@ -92,3 +94,7 @@ The public-use datasets are versioned independently by CHARLS, HRS, and the Gate
 ## Licence
 
 The analysis code is released under the MIT License. The licence does not apply to CHARLS or HRS data, which remain subject to their providers' terms.
+
+## Citation
+
+Wu X, Liang H, Wei H, Liu L. Statistical analysis code for hospitalization and functional trajectories in CHARLS and HRS. Version 1.0.0. Zenodo. 2026. https://doi.org/10.5281/zenodo.22351432

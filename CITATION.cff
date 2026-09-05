@@ -4,6 +4,7 @@ title: "Statistical analysis code for hospitalization and functional trajectorie
 type: software
 version: 1.0.0
 date-released: 2026-09-05
+doi: 10.5281/zenodo.22351432
 authors:
   - family-names: Wu
     given-names: Xiaoxin
@@ -18,6 +19,7 @@ authors:
     given-names: Lirong
     affiliation: The Second Affiliated Hospital of Xiamen Medical College
 repository-code: "https://github.com/wusmall1994-create/charls-hrs-hospitalization-functional-trajectories"
+url: "https://doi.org/10.5281/zenodo.22351432"
 license: MIT
 keywords:
   - CHARLS
